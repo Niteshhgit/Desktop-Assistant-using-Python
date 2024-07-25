@@ -22,3 +22,11 @@ pip list
 ```bash
 pip install -r requirements.txt
 ```
+# Command for Github
+```bash
+git add .
+
+git commint -m " message "
+
+git push origin main
+```
